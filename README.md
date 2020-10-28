@@ -3,7 +3,7 @@ Welcome! These files are free for you to view and use. These go along with my pr
 
 PTX
 
-這裡面有一個檔案室timetable.py，可以顯示台鐵某車站的動態時刻表，檔案中有變數stationID，可以設為你想茶的台鐵車站代號，預設是3360彰化，可以上網查詢這些代號(1000台北，3300台中)
+這裡面有一個檔案室timetable.py，可以顯示台鐵某車站的動態時刻表，檔案中有變數stationID，可以設為你想查的台鐵車站代號，預設是3360彰化，可以上網查詢這些代號(1000台北，3300台中)
 
 yfinance
 
